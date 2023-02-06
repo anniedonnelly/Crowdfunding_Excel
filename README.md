@@ -1,6 +1,7 @@
 # Crowdfunding 
 <br>
 1. Given the provided data, what are three conclusions we can draw about Kickstarter campaigns? <br>
+
 * Theater campaigns are usually the most successful campaigns, nut they are also among the most failed.
 * The best goal range to have a campaign at is between $1000-$15000.
 * To be successful campaign it needs to be theater, film & video, and music.<br> 
