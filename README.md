@@ -1,8 +1,8 @@
 # Crowdfunding 
 
-### Requirements
+## Requirements
 
-#####Conditional Formatting (10 points)
+###Conditional Formatting (10 points)
 * Conditional formatting is applied appropriately to the outcome column (5 points)
 * Conditional formatting is applied appropriately to the percent funded column (5 points)
 
