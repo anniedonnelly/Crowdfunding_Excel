@@ -2,9 +2,10 @@
 
 ## Requirements
 
-### Conditional Formatting (10 points)
-* Conditional formatting is applied appropriately to the outcome column (5 points)
-* Conditional formatting is applied appropriately to the percent funded column (5 points)
+### Conditional Formatting 
+* Conditional formatting is applied appropriately to the outcome column and to the percent funded column 
+![image](https://user-images.githubusercontent.com/113384120/217120064-4a6d9676-c9c5-4423-bc27-3aee54901694.png)
+
 
 ### Column Creation (10 points)
 * Six new columns were correctly created for:
@@ -15,7 +16,7 @@
   * Date Created Conversion
   * Date Ended Conversion
 
-###Pivot Tables and Stacked Column Charts (15 points)
+### Pivot Tables and Stacked Column Charts (15 points)
 * Correctly created a pivot table that counts how many campaigns were "successful," "failed," "canceled," or are currently "live" per category (7.5 points)
 * Correctly created a stacked column pivot chart that can be filtered by country (7.5 points)
 
