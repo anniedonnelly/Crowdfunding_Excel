@@ -2,13 +2,8 @@
 
 ## Requirements
 
-### Conditional Formatting 
+### Conditional Formatting & Column Creation
 * Conditional formatting is applied appropriately to the outcome column and to the percent funded column 
-
-![image](https://user-images.githubusercontent.com/113384120/217120064-4a6d9676-c9c5-4423-bc27-3aee54901694.png)
-
-
-### Column Creation (10 points)
 * Six new columns were correctly created for:
   * percent funded
   * average donation
@@ -16,6 +11,9 @@
   * sub-category
   * Date Created Conversion
   * Date Ended Conversion
+
+![image](https://user-images.githubusercontent.com/113384120/217120437-e7c865fa-a59b-4605-861c-d933590ec698.png)
+
 
 ### Pivot Tables and Stacked Column Charts (15 points)
 * Correctly created a pivot table that counts how many campaigns were "successful," "failed," "canceled," or are currently "live" per category (7.5 points)
