@@ -4,6 +4,7 @@
 
 ### Conditional Formatting 
 * Conditional formatting is applied appropriately to the outcome column and to the percent funded column 
+
 ![image](https://user-images.githubusercontent.com/113384120/217120064-4a6d9676-c9c5-4423-bc27-3aee54901694.png)
 
 
