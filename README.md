@@ -15,15 +15,35 @@
 ![image](https://user-images.githubusercontent.com/113384120/217120437-e7c865fa-a59b-4605-861c-d933590ec698.png)
 
 
-### Pivot Tables and Stacked Column Charts (15 points)
-* Correctly created a pivot table that counts how many campaigns were "successful," "failed," "canceled," or are currently "live" per category (7.5 points)
-* Correctly created a stacked column pivot chart that can be filtered by country (7.5 points)
+### Pivot Tables and Stacked Column Charts
+* Correctly created a pivot table that counts how many campaigns were "successful," "failed," "canceled," or are currently "live" per category
+* Correctly created a stacked column pivot chart that can be filtered by country 
 
-### Pivot Tables and Line Graphs (15 points)
-* Correctly created a pivot table with a column of outcome, rows of Date Created Conversion, values based on the count of outcome, and filters based on parent category and Years (7.5 points)
-* Correctly created apivot chart line graph (7.5 points)
+![image](https://user-images.githubusercontent.com/113384120/217120639-cbaa4794-b9a0-4f01-a3ba-4c225d32e938.png)
 
-### Written Report (20 points)
+
+### Pivot Tables and Line Graphs
+* Correctly created a pivot table with a column of outcome, rows of Date Created Conversion, values based on the count of outcome, and filters based on parent category and Years
+* Correctly created apivot chart line graph
+
+![image](https://user-images.githubusercontent.com/113384120/217120723-9ab49e5a-ed63-4b33-9698-f8d905c7b5cd.png)
+
+
+### Crowfunding Goal Analysis
+* Computed calculations of percentages for projects that were successful, failed, or were canceled per goal range
+* Created a line chart showing the relationship between the goal’s amount and its chances at success, failure, or cancellation 
+
+![image](https://user-images.githubusercontent.com/113384120/217120889-8fecea1b-8844-49a1-96e9-456869c4b2fc.png)
+
+
+### Statistical Analysis 
+* Computed calculations of the mean, median, min, max, variance, and stdev using Excel formulas
+* A brief and compelling justification of whether the mean or median better summarizes the data 
+
+![image](https://user-images.githubusercontent.com/113384120/217120956-cee4c2b4-c36e-4ce9-b78a-45a29a4f93e8.png)
+
+
+### Written Report
 Presents a cohesive written analysis that:
 
 1. Given the provided data, what are three conclusions we can draw about Kickstarter campaigns? <br>
@@ -41,11 +61,5 @@ Presents a cohesive written analysis that:
 * Outcome based on time allotment.
 * Does staff pick or spotlight affect outcome.
 
-### Crowfunding Goal Analysis (10 points)
-* Computed calculations of percentages for projects that were successful, failed, or were canceled per goal range (5 points)
-* Created a line chart showing the relationship between the goal’s amount and its chances at success, failure, or cancellation (5 points)
 
-### Statistical Analysis (20 points)
-* Computed calculations of the mean, median, min, max, variance, and stdev using Excel formulas (15 points)
-* A brief and compelling justification of whether the mean or median better summarizes the data (5 points)
 
